@@ -1,0 +1,53 @@
+2018/10/16 00:00:04.554 [I] query store by regionID 330281 is empty
+2018/10/16 00:01:41.961 [I] query store by regionID 110000 is empty
+2018/10/16 00:01:43.473 [I] query store by regionID 110000 is empty
+2018/10/16 00:01:45.648 [I] query store by regionID 330281 is empty
+2018/10/16 00:02:16.986 [I] query store by regionID 110000 is empty
+2018/10/16 00:02:20.503 [I] query store by regionID 110000 is empty
+2018/10/16 00:02:22.335 [I] query store by regionID 330281 is empty
+2018/10/16 00:13:18.739 [I] query store by regionID 110000 is empty
+2018/10/16 00:14:10.527 [I] query store by regionID 110000 is empty
+2018/10/16 00:14:14.041 [I] query store by regionID 110000 is empty
+2018/10/16 00:17:26.942 [I] query store by regionID 110000 is empty
+2018/10/16 00:18:03.676 [I] query store by regionID 110000 is empty
+2018/10/16 00:24:28.611 [I] query store by regionID 110000 is empty
+2018/10/16 00:24:31.887 [I] parameter is %!c(string=), %!c(string=)
+2018/10/16 00:25:45.370 [I] query store by regionID 110000 is empty
+2018/10/16 00:32:38.807 [I] query store by regionID 110000 is empty
+2018/10/16 00:54:01.137 [I] query store by regionID 110000 is empty
+2018/10/16 00:54:01.389 [I] query store by regionID 110000 is empty
+2018/10/16 00:54:04.051 [I] query store by regionID 110000 is empty
+2018/10/17 21:31:56.606 [I] query store by regionID 110000 is empty
+2018/10/20 10:17:10.740 [I] query store by regionID 110000 is empty
+2018/10/20 10:17:13.940 [I] query store by regionID 330281 is empty
+2018/10/20 10:18:40.447 [I] query store by regionID 110000 is empty
+2018/10/20 10:29:51.898 [I] query store by regionID 110000 is empty
+2018/10/20 10:30:42.324 [I] query store by regionID 110000 is empty
+2018/10/20 10:30:52.415 [I] query store by regionID 330281 is empty
+2018/10/20 10:33:21.669 [I] query store by regionID 110000 is empty
+2018/10/20 10:33:23.603 [I] query store by regionID 330281 is empty
+2018/10/24 11:54:39.661 [I] query store by regionID 110000 is empty
+2018/10/24 17:06:13.558 [I] query store by regionID 110000 is empty
+2018/10/24 17:44:00.233 [I] query store by regionID 330281 is empty
+2018/10/24 17:44:12.953 [E] receive user information: admin, 21232f297a57a5a743894a0e4a801fc3
+2018/10/24 17:45:54.390 [I] query store by regionID 330281 is empty
+2018/10/24 17:46:06.733 [E] receive user information: admin, 21232f297a57a5a743894a0e4a801fc3
+2018/10/24 17:47:10.783 [I] query store by regionID 110000 is empty
+2018/10/24 17:47:12.314 [I] query store by regionID 330281 is empty
+2018/10/24 17:47:21.858 [E] receive user information: admin, 21232f297a57a5a743894a0e4a801fc3
+2018/10/24 17:48:05.871 [I] query store by regionID 110000 is empty
+2018/10/24 17:48:08.686 [I] query store by regionID 330281 is empty
+2018/10/24 17:48:22.901 [E] receive user information: admin, 21232f297a57a5a743894a0e4a801fc3
+2018/10/24 17:48:22.901 [E] can't find any employee with storeID 0
+2018/10/24 17:50:17.454 [E] receive user information: admin, 21232f297a57a5a743894a0e4a801fc3
+2018/10/24 17:50:17.455 [E] can't find any employee with storeID 0
+2018/10/24 20:44:10.306 [I] query store by regionID 110000 is empty
+2018/10/24 20:44:14.629 [I] query store by regionID 330281 is empty
+2018/10/24 20:44:27.611 [E] receive user information: admin, 21232f297a57a5a743894a0e4a801fc3
+2018/10/24 23:23:54.761 [I] query store by regionID 110000 is empty
+2018/10/24 23:23:58.530 [I] query store by regionID 330281 is empty
+2018/10/24 23:24:10.408 [E] receive user information: admin, 21232f297a57a5a743894a0e4a801fc3
+2018/10/24 23:45:07.425 [I] query store by regionID 110000 is empty
+2018/10/24 23:45:10.581 [I] query store by regionID 330281 is empty
+2018/10/24 23:45:23.200 [E] receive user information: admin, 21232f297a57a5a743894a0e4a801fc3
+2018/10/24 23:45:23.200 [E] can't find any employee with storeID 1
